@@ -88,7 +88,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'tocancipa_propiedades', # El nombre que aparece en tu MySQL
         'USER': 'root',
-        'PASSWORD': '',                  # Déjalo vacío (sin espacio entre comillas)
+        'PASSWORD': 'TocaCasa_2026#Db',                  # Déjalo vacío (sin espacio entre comillas)
         'HOST': '127.0.0.1',             # IP local
         'PORT': '3306',                  # El puerto que vimos en tu conexión
     }
